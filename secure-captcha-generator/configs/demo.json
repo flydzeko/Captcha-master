@@ -1,0 +1,34 @@
+{
+  "texts": [
+    "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRST仁义礼智信恕忠孝悌勇"
+  ],
+  "fonts": [
+   "resources/font/PingFang_A.ttf",
+    "resources/font/STXINWEI.TTF",
+    "resources/font/SentyTEA.ttf"
+  ],
+  "sizes": [
+    60,56,48
+  ],
+  "colors": [
+    "0x32678b",
+    "0xe61514",
+    "0x3e0ac3"
+  ],
+  "bgs": [
+    "0xfef6f6",
+    "resources/background/color.jpg"
+  ],
+  "rotate": 40,
+  "num": 4,
+  "dot": 50,
+  "curve": 1,
+  "width": 160,
+  "height": 60,
+  "align": 1,
+  "offset_ver": 0,
+  "offset_hor": 10,
+  "char_tran": [
+    5.97
+  ]
+}
